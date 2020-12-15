@@ -1,0 +1,3 @@
+baseurl: "/blog"
+production_url : http://makgill.github.io.com/blog
+BASE_PATH : http://makgill.github.io/blog
